@@ -1,4 +1,4 @@
-#Awesome .new Shortcuts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome .new Shortcuts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 .new is a new handy tld service from google - https://www.blog.google/outreach-initiatives/entrepreneurs/13-shortcuts-made-possible-new/
 
