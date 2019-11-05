@@ -5,12 +5,12 @@
 ## Google
 
 - cal.new||meeting.new //google calendar
-- doc.new //google doc
-- form.new //google form
-- sheet.new //google sheet
-- slide.new //google slide
-- site.new //google site
-- note.new //google keep
+- doc.new||docs.new //google doc
+- form.new||forms.new //google form
+- sheet.new||sheets.new||spreadsheet.new //google sheet
+- slide.new||slides.new||deck.new //google slide
+- site.new||sites.new||website.new //google site
+- note.new||notes.new //google keep
 
 ## Development
 
