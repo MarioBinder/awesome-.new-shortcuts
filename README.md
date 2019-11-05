@@ -3,6 +3,7 @@
 .new is a new handy tld service from google - https://www.blog.google/outreach-initiatives/entrepreneurs/13-shortcuts-made-possible-new/
 
 ## google
+
 - cal.new||meeting.new //google calendar
 - doc.new //google coc
 - form.new //google form
@@ -12,10 +13,12 @@
 - note.new //google keep
 
 ## developer
+
 - repo.new //github repo
 - api.new //runkit api
 
 ## other
+
 - playlist.new //playlist on Spotify
 - story.new //Medium
 - canva.new||design.new //canva design
@@ -26,3 +29,12 @@
 - reservation.new //opentable
 - coda.new //coda document
 - link.new //bitly shorturl
+
+## Related
+
+- [Awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics
+
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
