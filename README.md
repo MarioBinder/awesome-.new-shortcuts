@@ -1,6 +1,9 @@
 # Awesome .new Shortcuts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> .new is a new handy tld service from google - https://www.blog.google/outreach-initiatives/entrepreneurs/13-shortcuts-made-possible-new/
+> After announcing its ".new" top-level domain (TLD) last year,
+> Google has now announced that it is bringing .new shortcuts to the rest of the internet. https://www.blog.google/outreach-initiatives/entrepreneurs/13-shortcuts-made-possible-new/
+> Businesses and organizations will now be able to register their own .new domain to generate a .new shortcut that will work with their own web apps.
+
 - whats.new //Google Registration for .new tld
 
 ## Google
