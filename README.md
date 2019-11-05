@@ -2,7 +2,7 @@
 
 .new is a new handy tld service from google - https://www.blog.google/outreach-initiatives/entrepreneurs/13-shortcuts-made-possible-new/
 
-## google
+## Google
 
 - cal.new||meeting.new //google calendar
 - doc.new //google coc
@@ -12,12 +12,12 @@
 - site.new //google site
 - note.new //google keep
 
-## developer
+## Development
 
 - repo.new //github repo
 - api.new //runkit api
 
-## other
+## Other
 
 - playlist.new //playlist on Spotify
 - story.new //Medium
