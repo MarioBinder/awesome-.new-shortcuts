@@ -31,12 +31,6 @@
 - coda.new //coda document
 - link.new //bitly shorturl
 
-## coming soon
-
-tweet.new //twitter tweet
-fb.new //facebook post
-insta.new //instagram
-
 
 ## Related
 
