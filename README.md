@@ -12,6 +12,7 @@
 - slide.new||slides.new||deck.new //google slide
 - site.new||sites.new||website.new //google site
 - note.new||notes.new||keep.new //google keep
+- *email.new||mail.new //google mail*
 
 ## Development
 
