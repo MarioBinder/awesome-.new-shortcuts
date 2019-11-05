@@ -5,7 +5,7 @@
 ## Google
 
 - cal.new||meeting.new //google calendar
-- doc.new //google coc
+- doc.new //google doc
 - form.new //google form
 - sheet.new //google sheet
 - slide.new //google slide
