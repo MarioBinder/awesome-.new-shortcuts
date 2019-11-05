@@ -2,12 +2,6 @@
 
 .new is a new handy tld service from google - https://www.blog.google/outreach-initiatives/entrepreneurs/13-shortcuts-made-possible-new/
 
-## developer
-- repo.new //github repo
-- coda.new //coda document
-- api.new //runkit api
-- link.new //bitly shorturl
-
 ## google
 - cal.new||meeting.new //google calendar
 - doc.new //google coc
@@ -17,7 +11,11 @@
 - site.new //google site
 - note.new //google keep
 
-##other
+## developer
+- repo.new //github repo
+- api.new //runkit api
+
+## other
 - playlist.new //playlist on Spotify
 - story.new //Medium
 - canva.new||design.new //canva design
@@ -26,4 +24,5 @@
 - music.new //OVO Sound artist releases
 - sell.new //auction ebay
 - reservation.new //opentable
-
+- coda.new //coda document
+- link.new //bitly shorturl
