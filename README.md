@@ -1,6 +1,7 @@
 # Awesome .new Shortcuts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-.new is a new handy tld service from google - https://www.blog.google/outreach-initiatives/entrepreneurs/13-shortcuts-made-possible-new/
+> .new is a new handy tld service from google - https://www.blog.google/outreach-initiatives/entrepreneurs/13-shortcuts-made-possible-new/
+- whats.new //Google Registration for .new tld
 
 ## Google
 
@@ -10,7 +11,7 @@
 - sheet.new||sheets.new||spreadsheet.new //google sheet
 - slide.new||slides.new||deck.new //google slide
 - site.new||sites.new||website.new //google site
-- note.new||notes.new //google keep
+- note.new||notes.new||keep.new //google keep
 
 ## Development
 
@@ -29,6 +30,13 @@
 - reservation.new //opentable
 - coda.new //coda document
 - link.new //bitly shorturl
+
+## coming soon
+
+tweet.new //twitter tweet
+fb.new //facebook post
+insta.new //instagram
+
 
 ## Related
 
