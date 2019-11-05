@@ -22,9 +22,10 @@
 ## Other
 
 - playlist.new //playlist on Spotify
+- podcast.new //potcast on anchor
 - story.new //Medium
 - canva.new||design.new //canva design
-- webex.new //meeting room
+- webex.new||letsmeet.new //meeting room
 - invoice.new //invoice on stripe
 - music.new //OVO Sound artist releases
 - sell.new //auction ebay
