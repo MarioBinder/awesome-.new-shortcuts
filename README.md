@@ -22,6 +22,11 @@
 - repo.new //github repo
 - api.new //runkit api
 
+## Miro
+- miro.new //create a new blank board
+- workshop.new //to give you a head start on prepariong your next collaborative session
+- wireframe.new //to visualize your new website page or product screen
+
 ## Other
 
 - playlist.new //playlist on Spotify
