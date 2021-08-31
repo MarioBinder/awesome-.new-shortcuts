@@ -19,17 +19,25 @@
 
 ## PM
 - prezi.new //new presentation
-- task.new //new asana entity
+- task.new || asana.new //new asana entity
 
 ## Blogging
 - medium.new || story.new //create a new story in medium
 
 ## Development
 
-- repo.new //github repo
+- repo.new || github.new //github repo
 - api.new //runkit api
 - gist.new //new gist snippet
 - glitch.new //new project on glitch
+- svelte.new //new Svelte project with CodeSandbox
+- react.new //new React project with CodeSandbox
+- ng.new //new Angular project online CodeSandbox
+- flutter.new //new flutter project
+- script.new //new Google App Script
+- dotnet.new //new dotnet test on Microsoft's Try .NET environment
+- pwa.new //a new website using Pwabbit's simple editor
+
 
 ## Miro
 - miro.new //create a new blank board
