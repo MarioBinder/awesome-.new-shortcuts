@@ -17,10 +17,19 @@
 - note.new||notes.new||keep.new //google keep
 - *email.new||mail.new //google mail*
 
+## PM
+- prezi.new //new presentation
+- task.new //new asana entity
+
+## Blogging
+- medium.new || story.new //create a new story in medium
+
 ## Development
 
 - repo.new //github repo
 - api.new //runkit api
+- gist.new //new gist snippet
+- glitch.new //new project on glitch
 
 ## Miro
 - miro.new //create a new blank board
@@ -31,7 +40,6 @@
 
 - playlist.new //playlist on Spotify
 - podcast.new //potcast on anchor
-- story.new //Medium
 - canva.new||design.new //canva design
 - webex.new||letsmeet.new //meeting room
 - invoice.new //invoice on stripe
@@ -40,11 +48,14 @@
 - reservation.new //opentable
 - coda.new //coda document
 - link.new //bitly shorturl
+- resume.new //new resume on cv2you
+- password.new // password generator online tool
 
 
 ## Related
 
 - [Awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics
+- https://whats.new/shortcuts/
 
 
 ## License
