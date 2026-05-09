@@ -57,6 +57,24 @@
 - workers.new — new Cloudflare Workers project
 - ~~pwa.new~~ — ~~new PWA with Pwabbit~~ (SSL error)
 
+## AI & Vibe Coding
+
+- claude.new — new Claude chat (Anthropic)
+- gemini.new / chat.new — new Gemini chat (Google)
+- grok.new — new Grok chat (xAI)
+- dalle.new — new image generation (ChatGPT / DALL-E)
+- bolt.new — new AI full-stack app (StackBlitz Bolt)
+- v0.new — new AI UI generator (Vercel v0)
+- lovable.new — new AI app builder (Lovable)
+- runway.new — new AI video generation (Runway ML)
+- copy.new — new AI marketing copy (Copy.ai)
+- colab.new — new Google Colab notebook
+- model.new — new ML model (Google Cloud AI Platform)
+- ~~chatgpt.new~~ — ~~ChatGPT~~ (offline)
+- ~~cursor.new~~ — ~~Cursor AI editor~~ (offline)
+- ~~perplexity.new~~ — ~~Perplexity AI~~ (offline)
+- ~~midjourney.new~~ — ~~Midjourney~~ (offline)
+
 ## Design & Collaboration
 
 - figma.new — new Figma file
